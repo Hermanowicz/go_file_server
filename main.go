@@ -1,5 +1,8 @@
 package main
 
+// TODO: replace ListenAndServe with ListenAndServeTLS
+// TODO: add makefile with cert setup and build command
+
 import (
 	"fmt"
 	"log"
