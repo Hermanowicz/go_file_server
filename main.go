@@ -2,6 +2,7 @@ package main
 
 // TODO: replace ListenAndServe with ListenAndServeTLS
 // TODO: add makefile with cert setup and build command
+// generating ssl -> https://devcenter.heroku.com/articles/ssl-certificate-self
 
 import (
 	"fmt"
